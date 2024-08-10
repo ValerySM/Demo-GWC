@@ -6,7 +6,7 @@ import EcoGame from '../Universes/ECI/EcoGame';
 import EatsApp from '../Universes/EWI/src/EatsApp';
 import '../css/UniverseSwitcher.css';
 import loadingImage from '../components/public/load_screen_univ.avif';
-<<<<<<< HEAD
+
 
 const UniverseSwitcher = () => {
   const [currentUniverse, setCurrentUniverse] = useState('EWI');
